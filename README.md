@@ -1,11 +1,12 @@
 
-<p align="center">
-<a href="https://lean-sat.org/opensource/" class="button icon calendar">Join Monthly Webinar</a>
-</p>
-
 <div align="center">
-<img  width="25%" src="https://github.com/BIRDSOpenSource/BIRDS4-ProceduresAndReports/assets/100206676/055720a1-5845-43c9-b26e-dfcc6dc78b23">
+  <a href="https://lean-sat.org/opensource/">
+  <img alt="Join the monthly community webinars" src="https://img.shields.io/badge/join_our-monthly_webinars-orange" />
+  </a>
 </div>
+
+
+<img  width="25%" src="https://github.com/BIRDSOpenSource/BIRDS4-ProceduresAndReports/assets/100206676/055720a1-5845-43c9-b26e-dfcc6dc78b23"> <img width="40%" src="https://github.com/BIRDSOpenSource/BIRDS4-ProceduresAndReports/assets/100206676/4adeca5e-c683-47f9-b4a4-c95ebf40f177">
 
 
 # BIRDS4-SolarPanel
@@ -14,11 +15,9 @@
 
 ## About the BIRDS4 Program:
 
-<img width="50%" src="https://github.com/BIRDSOpenSource/BIRDS4-ProceduresAndReports/assets/100206676/4adeca5e-c683-47f9-b4a4-c95ebf40f177">
-
 The Mission Statement of the Project is:
 
-“By successfully building and operating first satellite of nation, advance toward indigenous space program in each country”
+> “By successfully building and operating first satellite of nation, advance toward indigenous space program in each country”
 
 The project is led by Kyushu Institute of Technology in Japan and involves students from Philippines, Paraguay, Nepal, Turkey and Japan.
 
@@ -38,6 +37,29 @@ BIRDS-4 has 1 main missions in total; APRS Store and forward mission
 
 ## Organisation structure
 
+```bash
+
+├── .gitattributes
+├── LICENSE
+├── README.md
+└── Solar panel
+    ├── +X
+    │   ├── B4_FM_+X_SOLAR_PANEL_v2.brd
+    │   └── B4_FM_+X_SOLAR_PANEL_v2.sch
+    ├── +Y
+    │   ├── B4_FM_+Y_SOLAR_PANEL.brd
+    │   └── B4_FM_+Y_SOLAR_PANEL.sch
+    ├── +Z
+    │   ├── B4_FM_+Z_SOLAR_PANEL.brd
+    │   └── B4_FM_+Z_SOLAR_PANEL.sch
+    ├── -X
+    │   ├── B4_FM_-X_SOLAR_PANEL_v2.brd
+    │   └── B4_FM_-X_SOLAR_PANEL_v2.sch
+    ├── -Z
+    │   ├── B4_FM_-Z_SOLAR_PANEL.brd
+    │   └── B4_FM_-Z_SOLAR_PANEL.sch
+    └── B4_FM_solar_panel_List_20190923.xlsx
+```
 
 ## Features
 
